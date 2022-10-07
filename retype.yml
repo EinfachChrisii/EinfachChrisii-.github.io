@@ -5,6 +5,9 @@ branding:
   title: OPSUCHT
   label: Docs
 links:
+  - text: Home
+    link: /default.md
+    icon: home
   - text: Discord
     link: https://discord.gg/opsucht
     icon: comment-discussion
