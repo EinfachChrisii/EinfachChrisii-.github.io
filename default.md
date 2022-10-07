@@ -2,6 +2,6 @@
 label: Willkommen
 icon: home
 ---
-# Basic page
+# Willkommen auf OPSUCHT
 
-This is a basic page, with only a title and some text content.
+[OPSUCHT](https://opsucht.net/) ist einer der größten CityBuild- und Wirtschaftsserver Deutschlands, auf welchem du nicht nur die Möglichkeit hast, mit Freunden coole Bauprojekte umzusetzen, sondern auch täglich neue Ziele verfolgen kannst, indem du farmen gehst, einen Shop errichtest und so der reichste Spieler auf dem CityBuild wirst.
