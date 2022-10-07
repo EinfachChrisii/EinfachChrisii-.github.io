@@ -7,5 +7,6 @@ branding:
 links:
   - text: Discord
     link: https://discord.gg/opsucht
+    icon: comment-discussion
 footer:
   copyright: "&copy; Copyright . All rights reserved."
