@@ -1,11 +1,11 @@
 input: .
 output: .retype
-url: example.com # Add your website address here
+url: opsucht.christian.pizza
 branding:
-  title: Project Name
-  label: Docs
+  title: OPSUCHT
+  label: Dokumentation
 links:
-  - text: Getting Started
-    link: https://retype.com/guides/getting-started/
+  - text: Discord
+    link: https://discord.gg/opsucht
 footer:
   copyright: "&copy; Copyright . All rights reserved."
