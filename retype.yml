@@ -3,7 +3,7 @@ output: .retype
 url: example.com # Add your website address here
 branding:
   title: OPSUCHT
-  label: DOCS
+  label: Docs
 links:
   - text: Discord
     link: https://discord.gg/opsucht
