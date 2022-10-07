@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: 
+url: example.com # Add your website address here
 branding:
   title: OPSUCHT
   label: Dokumentation
