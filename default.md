@@ -25,6 +25,6 @@ Unser Java-Server ist mit der Version 1.19.2 betretbar und man hat dort die Mög
 
 Wenn du ein Supportanliegen hast oder ein Bug melden möchtest, erstellst du bitte ein Ticket auf unserem [Discord](https://discord.gg/opsucht/) und wir werden uns sofort darum kümmern.
 
-Die Tickets werden 24 Stunden am Tag bearbeitet und wir werden unser Bestes tun, um dir zu helfen.
+Die Tickets werden 24 Stunden am Tag bearbeitet und wir werden unser Bestes geben, um dir zu helfen.
 
 Du hast ein Problem mit dem Shop? Dann melde dich bitte bei support@iwmedia.de
