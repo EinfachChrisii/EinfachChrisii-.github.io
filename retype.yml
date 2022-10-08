@@ -13,7 +13,7 @@ links:
     icon: comment
     target: blank
 footer:
-  copyright: "© Copyright {{ year }} – Christian – All rights reserved"
+  copyright: "© Copyright {{ year }} – [Christian](discord.com/users/733395656487469187) – All rights reserved"
   links:
   - text: About
     link: /about.md
