@@ -13,8 +13,8 @@ links:
     icon: comment
     target: blank
 footer:
-  copyright: "&copy; Copyright . All rights reserved."
+  copyright: "© Copyright {{ year }} – Christian – All rights reserved"
   links:
-  - text: Team
-    link: /team.md
-    icon: people
+  - text: About
+    link: /about.md
+    icon: question
