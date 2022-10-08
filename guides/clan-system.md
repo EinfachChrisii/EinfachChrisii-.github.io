@@ -1,5 +1,5 @@
 ---
-label: Clan
+label: Clan-System
 icon: code-of-conduct
 ---
 # Unser Clan-System
