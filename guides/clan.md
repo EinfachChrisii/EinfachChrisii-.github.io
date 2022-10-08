@@ -2,6 +2,6 @@
 label: Clan
 icon: code-of-conduct
 ---
-# Sample page
+# Unser Clan-System
 
-This is a sample page demonstrating page metadata.
+This is a sample clan page.
