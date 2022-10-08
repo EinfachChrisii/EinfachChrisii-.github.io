@@ -15,6 +15,7 @@ Passend zu unserem Server findest du hier eine Dokumentation, um alle deine Frag
 ## Einstieg
 
 **JAVA:**
+Unser Java-Server ist mit der Version 1.19.2 betretbar und man hat dort die Möglichkeit sich auf CityBuild 1 - 4 ein Imperium aufzubauen, indem man sich mit Freunden zusammenschließt, die Farmwelt erkundet oder einen Shop baut.
 
 **BEDROCK:**
 
