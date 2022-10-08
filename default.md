@@ -26,7 +26,7 @@ Die ausgeprägte Wirtschaft wird auf jedem CityBuild von den Spielern gesteuert.
 
 Wir bieten euch eine starke Community mit einem komplexen Clan-System!
 
-#### :icon-comment-discussion: Job-System
+#### :icon-briefcase: Job-System
 
 Dank unserem Job-System kannst du währendessen du farmst, nicht nur deine Level steigern, sondern auch gleichzeitig Geld verdienen!
 
