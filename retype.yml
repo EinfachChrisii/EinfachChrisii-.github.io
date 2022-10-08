@@ -12,4 +12,8 @@ links:
     link: https://discord.gg/opsucht
     icon: comment-discussion
 footer:
+links:
+  - text: Team
+    link: /team.md
+    icon: people
   copyright: "&copy; Copyright . All rights reserved."
