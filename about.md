@@ -1,6 +1,6 @@
 ---
 visibility: hidden
 ---
-# A hidden page
+# About
 
-This page will be hidden from the menu and search results.
+This is a sample about page.
