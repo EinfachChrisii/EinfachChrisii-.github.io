@@ -2,21 +2,37 @@
 label: Willkommen
 icon: home
 ---
-# Willkommen auf OPSUCHT
+# Willkommen auf der inoffiziell Dokumentation von [OPSUCHT.NET](https://opsucht.net/)!
 
 [OPSUCHT](https://opsucht.net/) ist einer der größten deutschen CityBuild- und Wirtschaftsserver. 
 
 [!embed](https://www.youtube.com/embed/h-tlt6z7Tjc)
 
-Passend zu unserem Server findest du hier eine Dokumentation, um alle deine Frage zu klären.
-
 ---
 
 ## Einstieg
 
-**JAVA:**
+Du hast bei uns die Auswahl zwischen der Java- oder Bedrock-Edition, welche jeweils vier verschiedene CityBuilds haben, die mit der 1.19.2 erreichbar sind.
 
-**BEDROCK:**
+---
+
+## Besonderheiten
+
+#### :graph: ausgeprägte Wirtschaft
+
+Die ausgeprägte Wirtschaft wird auf jedem CityBuild von den Spielern gesteuert.
+
+#### :comment-discussion: starke Community
+
+Wir bieten euch eine starke Community mit einem komplexen Clan-System!
+
+#### :comment-discussion: Job-System
+
+Dank unserem Job-System kannst du währendessen du farmst, nicht nur deine Level steigern, sondern auch gleichzeitig Geld verdienen!
+
+#### :gift: regelmäßige Events
+
+Durch regelmäßige Events bekommt ihre die Möglichkeit einzigartige Items zu gewinnen!
 
 ---
 
