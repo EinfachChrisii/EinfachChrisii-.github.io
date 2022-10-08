@@ -8,7 +8,7 @@ icon: home
 
 [!embed](https://www.youtube.com/embed/h-tlt6z7Tjc)
 
-Passend zu unserem Server findest du hier eine Dokumentation um alle deine Frage zu klären.
+Passend zu unserem Server findest du hier eine Dokumentation, um alle deine Frage zu klären.
 
 ---
 
