@@ -18,19 +18,19 @@ Du hast bei uns die Auswahl zwischen der Java- oder Bedrock-Edition, welche jewe
 
 ## Besonderheiten
 
-#### :graph: ausgeprägte Wirtschaft
+#### :icon-graph: ausgeprägte Wirtschaft
 
 Die ausgeprägte Wirtschaft wird auf jedem CityBuild von den Spielern gesteuert.
 
-#### :comment-discussion: starke Community
+#### :icon-comment-discussion: starke Community
 
 Wir bieten euch eine starke Community mit einem komplexen Clan-System!
 
-#### :comment-discussion: Job-System
+#### :icon-comment-discussion: Job-System
 
 Dank unserem Job-System kannst du währendessen du farmst, nicht nur deine Level steigern, sondern auch gleichzeitig Geld verdienen!
 
-#### :gift: regelmäßige Events
+#### :icon-gift: regelmäßige Events
 
 Durch regelmäßige Events bekommt ihre die Möglichkeit einzigartige Items zu gewinnen!
 
