@@ -1,6 +1,6 @@
 ---
 label: Plot-System
-icon: code-of-conduct
+icon: organization
 ---
 
 # Plot-System
