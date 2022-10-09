@@ -1,7 +1,7 @@
 ---
 label: Plot-System
 icon: organization
-tags: [leitfaden]
+tags: [Leitfaden]
 order: 1000
 ---
 
