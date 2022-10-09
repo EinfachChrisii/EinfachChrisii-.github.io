@@ -351,3 +351,35 @@ Bedrock:
 
 +++
 
+## UPDATE 05.08.2022
+
++++ Änderung :icon-shield:
+
+- GameRule `maxEntityCramming` auf allen CBs von 512 auf 24 gesetzt
+
++++
+
+## UPDATE 05.08.2022 
+
++++ Neu :icon-shield-check:
+
+- Jedes Plot hat nun eine `mob-cap` von 10
+
++++ Behoben :icon-bug:
+
+- Die Verzauberung `Verbrennung` funktioniert jetzt wieder bei passiven Spawnern
+
++++ Änderung :icon-shield:
+
+- `Schafs-Spawn-Ei` kann nicht mehr in aktive Spawner gelegt werden
+- Aktive Spawner spawnen keine Schafe mehr, wechselt bitte zu passiven Spawnern
+
++++
+
+## UPDATE 02.08.2022
+
++++ Behoben :icon-bug:
+
+- Bug im Admin Shop behoben
+
++++
