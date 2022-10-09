@@ -186,5 +186,94 @@ Bedrock:
 
 +++
 
+## UPDATE 12.09.2022
+
++++ Änderung :icon-shield:
+
+Bedrock:
+- Herbst Spawns
+
++++
+
+## UPDATE 11.09.2022
+
++++ Neu :icon-shield-check:
+
+- Discord Sprachsupport
+
++++
+
+## UPDATE 05.09.2022
+
++++ Neu :icon-shield-check:
+
+- Neues Discord Verify System, welches nun auch Bedrock Spieler unterstützt
+- `/link` Discord Befehl um dich mit einem Minecraft Account zu verbinden
+- `/unlink` Discord Befehl um dich von allen Minecraft Accounts zu trennen
+- `/nickname` Discord Befehl um festzulegen, welcher Name (Java oder Bedrock) genutzt werden soll
+- `/whois` Discord Befehl um herauszufinden, wie ein Spieler im Spiel heißt
+
++++
+
+## UPDATE 04.09.2022
+
++++ Änderung :icon-shield:
+
+Bedrock:
+- Auf CB Hamburg verliert man wieder sein Inventar. Diese Einstellung war unbeabsichtigt an.
+
++++
+
+## UPDATE 02.09.2022
+
++++ Neu :icon-shield-check:
+
+- Server Booster (nitro-booster) können jetzt externe Emojis und Sticker verwenden
+- Im Allgemein, Java und Bedrock Bereich kann jetzt jeder Reaktionen zu Nachrichten hinzufügen
+
++++
+
+## UPDATE 02.09.2022
+
++++ Neu :icon-shield-check:
+
+Bedrock:
+- Spawner können platziert werden
+
++++
+
+## UPDATE 01.09.2022
+
++++ Änderung :icon-shield:
+
+- Herbst-Lobby
+
++++
+
+## UPDATE 30.08.2022 - 01.09.2022
+
++++ Änderung :icon-shield:
+
+- Diverse Discord Updates
+
++++
+
+## UPDATE 26.08.2022
+
++++ Neu :icon-shield-check:
+
+- `/swarp info <swarp>`
+- `/clan rolle berechtigungsstufe <rolle> <name>` - Mit diesem Befehl könnt ihr die Berechtigungsstufe einer Rolle in einem Clan ändern, ohne diese neu erstellen zu müssen.
+
++++ Behoben :icon-bug:
+
+- Das Home System sucht euch jetzt einen sicheren Ort, damit ihr diese Homes wieder nutzen könnt
+- Spieler Warps können nur noch benutzt werden, wenn man nicht von dem Grundstück gebannt ist, auf welchem der Spieler Warp gesetzt ist
+
++++ Änderung :icon-shield:
+
+- Die Rechte der Clan Gruppe Mitglied können jetzt angepasst werden
+
++++
 
 
