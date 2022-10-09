@@ -2,7 +2,7 @@
 label: Freunde-System
 icon: people
 tags: [Leitfaden]
-order: 975
+order: 950
 ---
 
 # Freunde-System
