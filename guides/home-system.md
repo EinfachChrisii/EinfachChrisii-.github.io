@@ -1,6 +1,6 @@
 ---
 label: Home-System
-icon: flame
+icon: location
 tags: [Leitfaden]
 order: 650
 ---
