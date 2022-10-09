@@ -22,10 +22,6 @@ In unserem Shop hat man die Möglichkeit für die Java- und die Bedrock-Edition 
 
 ---
 
-## Zahlungsmethoden
-
----
-
 ## Ränge 
 
 ---
