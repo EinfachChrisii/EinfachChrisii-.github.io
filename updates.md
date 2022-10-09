@@ -498,3 +498,21 @@ Bedrock:
 - Betreten der Citybuild und Farmserver mit der 1.19 blockiert, da diese Version zu vielen Problemen führt. Nutzt bitte die 1.12.2 oder die 1.16.5!
 
 +++
+
+## UPDATE 14.07.2022
+
++++ Neu :icon-shield-check:
+
+- `/heal` ab PLATIN
+- `/feed` ab PLATIN
+
++++
+
+## UPDATE 14.07.2022
+
++++ Behoben :icon-bug:
+
+- Feuer verbreitet sich nicht mehr auf CB3 und CB4
+- `/p trust`, `/p add` und `/p deny` geht wieder auf CB3 und CB4
+
++++
