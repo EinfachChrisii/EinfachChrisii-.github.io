@@ -41,5 +41,3 @@ Durch **regelmäßige Events** bekommt ihre die Möglichkeit einzigartige Items 
 Wenn du ein **Supportanliegen** hast oder ein **Bug melden** möchtest, kannst du ein Ticket auf unserem [Discord](https://discord.gg/opsucht/) erstellen und wir werden uns sofort darum kümmern.
 
 Die Tickets werden 24 Stunden am Tag bearbeitet und wir werden unser Bestes geben, um dir zu helfen.
-
-Du hast ein Problem mit dem Shop? Dann melde dich bitte bei support@iwmedia.de
