@@ -1,6 +1,6 @@
 ---
 label: Kisten-System
-icon: hubot
+icon: inbox
 tags: [Leitfaden]
 order: 550
 ---
