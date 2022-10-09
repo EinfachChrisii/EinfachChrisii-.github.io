@@ -50,3 +50,20 @@ Bedrock:
 - Trichter sind nun auf 5 pro Plot limitiert
 
 +++
+
+## UPDATE 02.10.2022
+
++++ Behoben :icon-bug:
+
+- Regenbogenrüstung/Discorüstung behoben
+- Maurer kann auf CB1 wieder in /village benutzt werden
+- Passive Spawner Schafe können wieder gefärbt werden
+- Passive Spawner Kühe können wieder gemolken werden
+- Passive Spawner Axolotl und Tropenfische, welche mit einem Eimer eingesammelt werden haben wieder Leben (AI)
+- Neue Treppen können nun auch zum hinsetzen benutzt werden
+- Fehler mit farbigen Schildern behoben (ChestShop)
+- Items können wieder im Amboss umbenannt werden (Wie /rename)
+
+Java:
+- Minenarbeiter Minion gibt wieder Lapis Lazuli, anstatt blauer Farbe
+- Maurer in /village auf CB1 kann nun genutzt werden
