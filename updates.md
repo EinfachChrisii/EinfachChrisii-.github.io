@@ -26,7 +26,7 @@ Beachte, dass dieses Update-Archiv manuell aktualisiert wird, weshalb es mal etw
 
 +++
 
-## UPDATE 08.10.2022
+### UPDATE 08.10.2022
 
 +++ Neu :icon-shield-check:
 
@@ -51,7 +51,7 @@ Bedrock:
 
 +++
 
-## UPDATE 02.10.2022
+### UPDATE 02.10.2022
 
 +++ Behoben :icon-bug:
 
@@ -70,7 +70,7 @@ Java:
 
 +++
 
-## UPDATE 26.09.2022
+### UPDATE 26.09.2022
 
 +++ Behoben :icon-bug:
 
@@ -83,7 +83,7 @@ Java:
 
 +++
 
-## UPDATE 24.09.2022 
+### UPDATE 24.09.2022 
 
 +++ Neu :icon-shield-check:
 
@@ -106,7 +106,7 @@ Java:
 
 +++
 
-## UPDATE 22.09.2022
+### UPDATE 22.09.2022
 
 +++ Neu :icon-shield-check:
 
@@ -125,7 +125,7 @@ Bedrock:
 
 +++
 
-## UPDATE 21.09.2022
+### UPDATE 21.09.2022
 
 +++ Neu :icon-shield-check:
 
@@ -134,7 +134,7 @@ Bedrock:
 
 +++
 
-## UPDATE 16.09.2022
+### UPDATE 16.09.2022
 
 +++ Neu :icon-shield-check:
 
@@ -166,7 +166,7 @@ Java:
 
 +++
 
-## UPDATE 14.09.2022
+### UPDATE 14.09.2022
 
 +++ Neu :icon-shield-check:
 
@@ -186,7 +186,7 @@ Bedrock:
 
 +++
 
-## UPDATE 12.09.2022
+### UPDATE 12.09.2022
 
 +++ Änderung :icon-shield:
 
@@ -195,7 +195,7 @@ Bedrock:
 
 +++
 
-## UPDATE 11.09.2022
+### UPDATE 11.09.2022
 
 +++ Neu :icon-shield-check:
 
@@ -203,7 +203,7 @@ Bedrock:
 
 +++
 
-## UPDATE 05.09.2022
+### UPDATE 05.09.2022
 
 +++ Neu :icon-shield-check:
 
@@ -215,7 +215,7 @@ Bedrock:
 
 +++
 
-## UPDATE 04.09.2022
+### UPDATE 04.09.2022
 
 +++ Änderung :icon-shield:
 
@@ -224,7 +224,7 @@ Bedrock:
 
 +++
 
-## UPDATE 02.09.2022
+### UPDATE 02.09.2022
 
 +++ Neu :icon-shield-check:
 
@@ -233,7 +233,7 @@ Bedrock:
 
 +++
 
-## UPDATE 02.09.2022
+### UPDATE 02.09.2022
 
 +++ Neu :icon-shield-check:
 
@@ -242,7 +242,7 @@ Bedrock:
 
 +++
 
-## UPDATE 01.09.2022
+### UPDATE 01.09.2022
 
 +++ Änderung :icon-shield:
 
@@ -250,7 +250,7 @@ Bedrock:
 
 +++
 
-## UPDATE 30.08.2022 - 01.09.2022
+### UPDATE 30.08.2022 - 01.09.2022
 
 +++ Änderung :icon-shield:
 
@@ -258,7 +258,7 @@ Bedrock:
 
 +++
 
-## UPDATE 26.08.2022
+### UPDATE 26.08.2022
 
 +++ Neu :icon-shield-check:
 
@@ -276,7 +276,7 @@ Bedrock:
 
 +++
 
-## UPDATE 24.08.2022
+### UPDATE 24.08.2022
 
 +++ Neu :icon-shield-check:
 
@@ -284,7 +284,7 @@ Bedrock:
 
 +++
 
-## UPDATE 23.08.2022
+### UPDATE 23.08.2022
 
 +++ Neu :icon-shield-check:
 
@@ -298,7 +298,7 @@ Bedrock:
 
 +++
 
-## UPDATE 19.08.2022
+### UPDATE 19.08.2022
 
 +++ Änderung :icon-shield:
 
@@ -306,7 +306,7 @@ Bedrock:
 
 +++
 
-## UPDATE 19.08.2022
+### UPDATE 19.08.2022
 
 +++ Neu :icon-shield-check:
 
@@ -318,7 +318,7 @@ Bedrock:
 
 +++
 
-## UPDATE 13.08.2022 
+### UPDATE 13.08.2022 
 
 +++ Behoben :icon-bug:
 
@@ -326,7 +326,7 @@ Bedrock:
 
 +++
 
-## UPDATE 12.08.2022
+### UPDATE 12.08.2022
 
 +++ Neu :icon-shield-check:
 
@@ -351,7 +351,7 @@ Bedrock:
 
 +++
 
-## UPDATE 05.08.2022
+### UPDATE 05.08.2022
 
 +++ Änderung :icon-shield:
 
@@ -359,7 +359,7 @@ Bedrock:
 
 +++
 
-## UPDATE 05.08.2022 
+### UPDATE 05.08.2022 
 
 +++ Neu :icon-shield-check:
 
@@ -376,7 +376,7 @@ Bedrock:
 
 +++
 
-## UPDATE 02.08.2022
+### UPDATE 02.08.2022
 
 +++ Behoben :icon-bug:
 
@@ -384,7 +384,7 @@ Bedrock:
 
 +++
 
-## UPDATE 29.07.2022
+### UPDATE 29.07.2022
 
 +++ Neu :icon-shield-check:
 
@@ -394,7 +394,7 @@ Bedrock:
 
 +++
 
-## UPDATE 29.07.2022 
+### UPDATE 29.07.2022 
 
 +++ Neu :icon-shield-check:
 
@@ -414,7 +414,7 @@ Bedrock:
 
 +++
 
-## UPDATE 22.07.2022
+### UPDATE 22.07.2022
 
 +++ Behoben :icon-bug:
 
@@ -422,7 +422,7 @@ Bedrock:
 
 +++
 
-## UPDATE 22.07.2022
+### UPDATE 22.07.2022
 
 +++ Neu :icon-shield-check:
 
@@ -444,7 +444,7 @@ Bedrock:
 
 +++
 
-## UPDATE 18.07.2022
+### UPDATE 18.07.2022
 
 +++ Behoben :icon-bug:
 
@@ -452,7 +452,7 @@ Bedrock:
 
 +++
 
-## UPDATE 18.07.2022
+### UPDATE 18.07.2022
 
 +++ Behoben :icon-bug:
 
@@ -461,7 +461,7 @@ Bedrock:
 
 +++
 
-## UPDATE 17.07.2022 
+### UPDATE 17.07.2022 
 
 +++ Behoben :icon-bug:
 
@@ -471,7 +471,7 @@ Bedrock:
 
 +++
 
-## UPDATE 15.07.2022 
+### UPDATE 15.07.2022 
 
 +++ Behoben :icon-bug:
 
@@ -479,7 +479,7 @@ Bedrock:
 
 +++
 
-## UPDATE 15.07.2022
+### UPDATE 15.07.2022
 
 +++ Neu :icon-shield-check:
 
@@ -499,7 +499,7 @@ Bedrock:
 
 +++
 
-## UPDATE 14.07.2022
+### UPDATE 14.07.2022
 
 +++ Neu :icon-shield-check:
 
@@ -508,7 +508,7 @@ Bedrock:
 
 +++
 
-## UPDATE 14.07.2022
+### UPDATE 14.07.2022
 
 +++ Behoben :icon-bug:
 
@@ -517,7 +517,7 @@ Bedrock:
 
 +++
 
-## UPDATE 14.07.2022
+### UPDATE 14.07.2022
 
 +++ Neu :icon-shield-check:
 
@@ -535,7 +535,7 @@ Bedrock:
 
 +++
 
-## UPDATE 11.07.2022
+### UPDATE 11.07.2022
 
 +++ Änderung :icon-shield:
 
@@ -546,7 +546,7 @@ Bedrock:
 
 +++
 
-## UPDATE 11.07.2022
+### UPDATE 11.07.2022
 
 +++ Änderung :icon-shield:
 
@@ -555,7 +555,7 @@ Bedrock:
 
 +++
 
-## UPDATE 11.07.2022
+### UPDATE 11.07.2022
 
 +++ Behoben :icon-bug:
 
@@ -563,7 +563,7 @@ Bedrock:
 
 +++
 
-## UPDATE 11.07.2022
+### UPDATE 11.07.2022
 
 +++ Neu :icon-shield-check:
 
@@ -575,7 +575,7 @@ Bedrock:
 
 +++
 
-## UPDATE 11.07.2022
+### UPDATE 11.07.2022
 
 +++ Behoben :icon-bug:
 
@@ -588,7 +588,7 @@ Bedrock:
 
 +++
 
-## UPDATE 10.07.2022
+### UPDATE 10.07.2022
 
 +++ Neu :icon-shield-check:
 
@@ -606,7 +606,7 @@ Bedrock:
 
 +++
 
-## UPDATE 10.07.2022
+### UPDATE 10.07.2022
 
 +++ Neu :icon-shield-check:
 
@@ -629,7 +629,7 @@ Bedrock:
 
 +++
 
-## UPDATE 09.07.2022 
+### UPDATE 09.07.2022 
 
 +++ Neu :icon-shield-check:
 
@@ -638,7 +638,7 @@ Bedrock:
 
 +++
 
-## UPDATE 08.07.2022 
+### UPDATE 08.07.2022 
 
 +++ Neu :icon-shield-check:
 
@@ -657,7 +657,7 @@ Bedrock:
 
 +++
 
-## UPDATE 07.07.2022 
+### UPDATE 07.07.2022 
 
 +++ Behoben :icon-bug:
 
@@ -665,7 +665,7 @@ Bedrock:
 
 +++
 
-## UPDATE 06.07.2022
+### UPDATE 06.07.2022
 
 +++ Neu :icon-shield-check:
 
@@ -682,7 +682,7 @@ Bedrock:
 
 +++
 
-## UPDATE 05.07.2022 
+### UPDATE 05.07.2022 
 
 +++ Behoben :icon-bug:
 
@@ -690,7 +690,7 @@ Bedrock:
 
 +++
 
-## UPDATE 04.07.2022
+### UPDATE 04.07.2022
 
 +++ Änderung :icon-shield:
 
@@ -699,7 +699,7 @@ Bedrock:
 +++
 
 
-## UPDATE 04.07.2022
+### UPDATE 04.07.2022
 
 +++ Änderung :icon-shield:
 
@@ -707,7 +707,7 @@ Bedrock:
 
 +++
 
-## UPDATE 03.07.2022
+### UPDATE 03.07.2022
 
 +++ Behoben :icon-bug:
 
@@ -720,7 +720,7 @@ Bedrock:
 
 +++
 
-## UPDATE 02.07.2022
+### UPDATE 02.07.2022
 
 +++ Behoben :icon-bug:
 
@@ -730,7 +730,7 @@ Bedrock:
 
 +++
 
-## UPDATE 01.07.2022
+### UPDATE 01.07.2022
 
 +++ Behoben :icon-bug:
 
@@ -739,7 +739,7 @@ Bedrock:
 +++
 
 
-## UPDATE 01.07.2022
+### UPDATE 01.07.2022
 
 +++ Behoben :icon-bug:
 
@@ -747,7 +747,7 @@ Bedrock:
 
 +++
 
-## UPDATE 01.07.2022
+### UPDATE 01.07.2022
 
 +++ Neu :icon-shield-check:
 
