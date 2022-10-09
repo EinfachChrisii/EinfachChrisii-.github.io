@@ -1,6 +1,7 @@
 ---
 label: Villager-System
 icon: ruby
+tags: [Leitfaden]
 order: 900
 ---
 
