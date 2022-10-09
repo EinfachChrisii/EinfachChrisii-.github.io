@@ -16,7 +16,7 @@ edit:
 links:
   - text: Home
     link: /default.md
-    icon: home
+    icon: ":house:"
     
   - text: Blog
     link: https://opsucht.net/blog
