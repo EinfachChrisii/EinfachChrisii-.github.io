@@ -1,6 +1,6 @@
 ---
 label: Swarp-System
-icon: people
+icon: flame
 tags: [Leitfaden]
 order: 700
 ---
