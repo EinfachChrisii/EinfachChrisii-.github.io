@@ -38,7 +38,7 @@ Durch **regelmäßige Events** bekommt ihre die Möglichkeit einzigartige Items 
 
 ## Support
 
-Wenn du ein Supportanliegen hast oder ein Bug melden möchtest, erstellst du bitte ein Ticket auf unserem [Discord](https://discord.gg/opsucht/) und wir werden uns sofort darum kümmern.
+Wenn du ein **Supportanliegen** hast oder ein **Bug melden** möchtest, kannst du ein Ticket auf unserem [Discord](https://discord.gg/opsucht/) erstellen und wir werden uns sofort darum kümmern.
 
 Die Tickets werden 24 Stunden am Tag bearbeitet und wir werden unser Bestes geben, um dir zu helfen.
 
