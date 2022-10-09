@@ -20,7 +20,7 @@ Beachte, dass dieses Update-Archiv manuell aktualisiert wird, weshalb es mal etw
 
 - XRAY funktioniert jetzt nicht mehr unter Höhe 0
 
-+++ Änderung :icon-shield-x:
++++ Änderung :icon-shield:
 
 - Verbesserung der Performance in den Farmwelten
 
@@ -41,7 +41,7 @@ Bedrock:
 Bedrock:
 - `/home` und einige Clan Befehle funktionieren jetzt auch in der Farmwelt
 
-+++ Änderung :icon-shield-x:
++++ Änderung :icon-shield:
 
 - Limit für ChestShop Käufe von alle 250ms auf jede Sekunde erhöht
 - SWarps werden bei Löschung des Plots entfernt
