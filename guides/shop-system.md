@@ -2,7 +2,7 @@
 label: Shop-System
 icon: credit-card
 tags: [Leitfaden]
-order: 700
+order: 600
 ---
 
 # Swarp-System
