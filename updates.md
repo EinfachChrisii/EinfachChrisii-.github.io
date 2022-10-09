@@ -521,9 +521,9 @@ Bedrock:
 
 +++ Neu :icon-shield-check:
 
-🟢 1.000$ für 250 Punkte im `/belohnung` Punkteshop
-🟢 `/shopupdate`, aktualisiert den Rang im Shop, sofern ihr diesen nicht aus dem Shop gekauft habt, damit zum Beispiel ein Upgrade gekauft werden kann
-🟢 `/gift` wurde überarbeitet und zeigt nun an, ob ihr wieder einen Rang vergeben könnt
+- 1.000$ für 250 Punkte im `/belohnung` Punkteshop
+- `/shopupdate`, aktualisiert den Rang im Shop, sofern ihr diesen nicht aus dem Shop gekauft habt, damit zum Beispiel ein Upgrade gekauft werden kann
+- `/gift` wurde überarbeitet und zeigt nun an, ob ihr wieder einen Rang vergeben könnt
 
 +++ Behoben :icon-bug:
 
