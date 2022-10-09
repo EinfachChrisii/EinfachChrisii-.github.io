@@ -2,7 +2,7 @@
 label: Minion-System
 icon: hubot
 tags: [Leitfaden]
-order: 800
+order: 750
 ---
 
 # Minion-System
