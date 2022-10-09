@@ -1,23 +1,32 @@
 input: .
 output: .retype
 url: example.com # Add your website address here
+
 branding:
   title: OPSUCHT
   label: Docs
+  
+meta:
+  title: " - OPSUCHT Dokumentation
+
+edit:
+  repo: "https://github.com/EinfachChrisii/EinfachChrisii-.github.io/"
+  label: Diese Seite editieren
+  
 links:
   - text: Home
     link: /default.md
     icon: home
+    
   - text: Discord
     link: https://discord.gg/opsucht
     icon: comment
     target: blank
+    
 footer:
   copyright: "© Copyright {{ year }} – [Christian](https://discord.com/users/733395656487469187) – All rights reserved"
   links:
-  - text: About
-    link: /about.md
-    icon: question
-edit:
-  repo: "https://github.com/EinfachChrisii/EinfachChrisii-.github.io/"
-  label: Diese Seite editieren
+    - text: About
+      link: /about.md
+      icon: question
+
