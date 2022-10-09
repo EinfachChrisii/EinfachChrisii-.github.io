@@ -6,7 +6,7 @@ order: 850
 
 # Updates
 
-Das gesamte Update-Archiv findest du ebenfalls auf [Discord](https://discord.com/channels/492478214568935460/827839251885719562).
+Das gesamte Update-Archiv findest du auf [Discord](https://discord.com/channels/492478214568935460/827839251885719562).
 
 !!!
 Beachte, dass dieses Update-Archiv manuell aktualisiert wird, weshalb es mal etwas länger dauern könnte bis ein neues Update hier dokumentiert wurde.
