@@ -1,7 +1,7 @@
 ---
 label: Clan-System
 icon: code-of-conduct
-tags: [leitfaden]
+tags: [Leitfaden]
 order: 950
 ---
 
