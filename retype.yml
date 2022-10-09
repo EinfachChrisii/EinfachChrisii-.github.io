@@ -18,9 +18,19 @@ links:
     link: /default.md
     icon: home
     
+  - text: Blog
+    link: https://opsucht.net/blog
+    icon: log
+    target: blank
+    
+  - text: Shop
+    link: https://shop.opsucht.net
+    icon: globe
+    target: blank
+    
   - text: Discord
     link: https://discord.gg/opsucht
-    icon: comment
+    icon: dependabot
     target: blank
     
 footer:
