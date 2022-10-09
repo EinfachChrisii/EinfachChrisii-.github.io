@@ -574,3 +574,189 @@ Bedrock:
 - Vote Nachrichten behoben
 
 +++
+
+## UPDATE 11.07.2022
+
++++ Behoben :icon-bug:
+
+- Ab Legende könnt ihr wieder Farbig auf Schilder schreiben
+- Kleinere Fehlerbehebungen
+
++++ Änderung :icon-shield:
+
+- Jeder Job verdient nun wieder den Normalwert
+
++++
+
+## UPDATE 10.07.2022
+
++++ Neu :icon-shield-check:
+
+- `/vote` (durch v1.2.2 entfernt worden)
+
++++ Behoben :icon-bug:
+
+- Nutzereingabe bei `/p home`, `/p trust` etc. wird nun auf böswillige Eingaben geprüft
+- `/skull` behoben (durch `v1.3.0` kaputt gegangen)
+
++++ Änderung :icon-shield:
+
+- Punkte Shop Menü überarbeitet
+- Chat Filter für Sonderzeichen greift nun auch für Befehle
+
++++
+
+## UPDATE 10.07.2022
+
++++ Neu :icon-shield-check:
+
+- `/belohnung` Punkte Shop hat nun auch einen "Zurück" Button und schließt sich nach einem kauf nicht direkt
+- `/belohnung` geht jetzt auch in der Farmwelt, für den Punkte Shop müsst ihr aber zum `/spawn`
+
++++ Behoben :icon-bug:
+
+- `/village` geht nun auch auf CB2
+- Spawneggs aus der Offhand können nicht mehr versehentlich in den Spawner gesetzt werden
+- Blockerkennung im Job System behoben. Holz aus der Custom Farmwelt sollte jetzt Geld bringen, wohingegen zum Beispiel polierter Andesit, polierter Diorit und polierter Granit nicht mehr mitgezählt wird
+- Achievements zählen jetzt, wie das Job System, keine eigens gesetzten Blöcke mehr mit
+- Spielernamen werden bei Teammitgliedern wieder automatisch mit einem @ versehen
+- Bug behoben, welches den Proxy gestoppt hat, wenn keine Lobby mehr verfügbar war
+- Möglicher Bugfix für die Chunks auf CB3 und CB4
+
++++ Änderung :icon-shield:
+
+- Das Jump and Run in der Lobby startet nun in der Luft, damit die Spieler am Boden nicht gestört werden
+
++++
+
+## UPDATE 09.07.2022 
+
++++ Neu :icon-shield-check:
+
+- Jeder Job verdient jetzt für kurze Zeit das doppelte
+- Tägliche Aufgaben bei `/belohnung` bringen jetzt auch 50 Punkte
+
++++
+
+## UPDATE 08.07.2022 
+
++++ Neu :icon-shield-check:
+
+- `/belohnung` wurde überarbeitet
+- Vanilla Farmwelt `FARM-2` für jeden CB (wird alle 30 Tage resetted)
+
++++ Behoben :icon-bug:
+
+- Scheren verlieren jetzt Haltbarkeit bei Schafen aus passiven Spawnern
+
++++ Änderung :icon-shield:
+
+- In der Farmwelt können nun alle Blöcke platziert werden
+- `/plot shop` Infos verständlicher gemacht
+- `/voteshop` entfernt; siehe `/belohnung`
+
++++
+
+## UPDATE 07.07.2022 
+
++++ Behoben :icon-bug:
+
+- Starter Kit wird jetzt direkt beim ersten Join vergeben
+
++++
+
+## UPDATE 06.07.2022
+
++++ Neu :icon-shield-check:
+
+- Jump and Run in der Lobby
+
++++ Behoben :icon-bug:
+
+- Fehlernachricht im Bank System behoben, wenn das Inventar voll war
+- Ofen System auf CB1 und CB2 behoben + Performance Behebung
+
++++ Änderung :icon-shield:
+
+- Blätter verschwinden ohne Holz nicht mehr auf CB1 und CB2, damit ihr damit bauen könnt
+
++++
+
+## UPDATE 05.07.2022 
+
++++ Behoben :icon-bug:
+
+- Berechnung für die Anzahl der Plots pro Spieler behoben
+
++++
+
+## UPDATE 04.07.2022
+
++++ Änderung :icon-shield:
+
+- Minenarbeiter Minion bringt nun Erze und keine Ingots mehr
+
++++
+
+
+## UPDATE 04.07.2022
+
++++ Änderung :icon-shield:
+
+- Automatische Neustarts werden nun 60 Sekunden, anstatt 30 Sekunden vorher angekündigt
+
++++
+
+## UPDATE 03.07.2022
+
++++ Behoben :icon-bug:
+
+- Voten geht wieder
+- Passive Spawner kleinere Fehler behoben
+- Zombifizierter Piglin kann jetzt auch auf `cb2` in die Spawner gesetzt werden
+- Einige Achievements sind wieder in der Plot Welt deaktiviert (Erze etc.)
+- `/plot shop` Anzahl der Plots behoben
+- `/tpahere *` für Spieler deaktiviert
+
++++
+
+## UPDATE 02.07.2022
+
++++ Behoben :icon-bug:
+
+- Volle server betreten behoben
+- Farbig signieren behoben
+- Amboss behoben
+
++++
+
+## UPDATE 01.07.2022
+
++++ Behoben :icon-bug:
+
+- Perks und Prefixe von DURA wiederhergestellt
+
++++
+
+
+## UPDATE 01.07.2022
+
++++ Behoben :icon-bug:
+
+- Gekaufte und Bonus Plots richtig übertragen
+
++++
+
+## UPDATE 01.07.2022
+
++++ Neu :icon-shield-check:
+
+- Die Server wurden wie folgt umbenannt:
+  - cb01 / cb 1.12.2 wird zu cb1
+  - cb01 von DURA wird zu cb2
+  - cb02 / cb 1.15.2 wird zu cb3
+  - cb05 / cb 1.16.4 wird zu cb4
+- Vereinheitlichung vieler Systeme
+- Infrastruktur Änderungen
+
++++
