@@ -4,6 +4,6 @@ icon: zap
 order: 900
 ---
 
-# Häufige Fragen
+# Updates
 
 This is a sample updates page.
