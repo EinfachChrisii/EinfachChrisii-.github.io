@@ -17,7 +17,11 @@ Beachte, dass dieses Update-Archiv manuell aktualisiert wird, weshalb es mal etw
 ## UPDATE 09.10.2022 [!badge text="LATEST" variant="info"]
 
 +++ Behoben :icon-bug:
-XRAY funktioniert jetzt nicht mehr unter Höhe 0
+
+- XRAY funktioniert jetzt nicht mehr unter Höhe 0
+
 +++ Änderung :icon-shield-x:
-Verbesserung der Performance in den Farmwelten
+
+- Verbesserung der Performance in den Farmwelten
+
 +++
