@@ -1,7 +1,7 @@
 ---
 label: Updates
 icon: zap
-order: 900
+order: 850
 ---
 
 # Updates
