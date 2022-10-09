@@ -487,14 +487,14 @@ Bedrock:
 
 +++ Behoben :icon-bug:
 
-- `/feed` hat nun einen Cooldown von 10 Minuten
-- `/heal` hat nun einen Cooldown von 15 Minuten
-- Betreten der Citybuild und Farmserver mit der 1.19 blockiert, da diese Version zu vielen Problemen führt. Nutzt bitte die 1.12.2 oder die 1.16.5!
-
-+++ Änderung :icon-shield:
-
 - `/p remove *` und `/p deny *` gehen wieder
 - Starter Kit wird jetzt immer direkt beim ersten Betreten auf dem Server vergeben
 - `/heal` heilt nun mehr als 20 Herzen, sofern ihr gerade eine Super Tool Hose oder Ähnliches nutzt
+
++++ Änderung :icon-shield:
+
+- `/feed` hat nun einen Cooldown von 10 Minuten
+- `/heal` hat nun einen Cooldown von 15 Minuten
+- Betreten der Citybuild und Farmserver mit der 1.19 blockiert, da diese Version zu vielen Problemen führt. Nutzt bitte die 1.12.2 oder die 1.16.5!
 
 +++
