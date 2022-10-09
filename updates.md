@@ -139,7 +139,12 @@ Bedrock:
 +++ Neu :icon-shield-check:
 
 Java:
-
+- 1.19.2
+- Spawn Eier im Adminshop
+- Die Plot Welt ist nun 64 Blöcke tiefer (bis -64) und 64 Blöcke höher (bis  320)
+- Neue Blöcke aus der neuen Version für die verschiedenen Jobs
+- Doppeltes Geld bei allen Jobs (Event)
+- Alte FCB Karten wurden importiert und sollten wieder 
 
 Bedrock:
 - Spawn Eier im Adminshop
@@ -149,13 +154,37 @@ Bedrock:
 +++ Behoben :icon-bug:
 
 Bedrock:
-
+- Karten in Rahmen werden wieder richtig angezeigt
 
 +++ Änderung :icon-shield:
 
 Java:
+- FARM-2 ist nun FARM-1 und die Custom Farmwelt wurde entfernt
+- Passive Spawner an die Geschwindigkeit von den Vanilla Spawnern angepasst
+- Verbesserte Öfen wurden entfernt
+- `/trails` entfernt
 
++++
 
+## UPDATE 14.09.2022
+
++++ Neu :icon-shield-check:
+
+Bedrock:
+- 1.19
+- Neuer Herbst Spawn
+
++++ Behoben :icon-bug:
+
+Bedrock:
+- Viele Fehlerbehebungen
+
++++ Änderung :icon-shield:
+
+Bedrock:
+- `keepInventory` auf der Plot Welt aktiviert (Inventar behalten)
+
++++
 
 
 
