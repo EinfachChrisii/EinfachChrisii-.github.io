@@ -6,5 +6,5 @@ order: 2000
 
 # Shop
 
-This is a sample shop page.
+In unserem Shop hast du die Möglichkeit sowohl für die Java- und die Bedrock-Edition einen Rang oder Kristalle/Gems zu kaufen.
 
