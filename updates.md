@@ -534,3 +534,43 @@ Bedrock:
 - Weltbarriere auf allen Plot Servern, welche das laden von ungenutzten Plots unterbindet. Solltet ihr ein neues Plot haben wollen, so ist immer eine freie Reihe in jede Richtung verfügbar oder nutzt einfach `/p auto` oder `/p auto 2;2` 
 
 +++
+
+## UPDATE 11.07.2022
+
++++ Änderung :icon-shield:
+
+- Die Plots vom `Spieler` Rang wurden von `1` auf `4` Standardmäßig angehoben
+- Die Plots vom `Supreme` Rang wurden von `4` auf `7` Standardmäßig angehoben
+- Die Plots vom `Platin` Rang wurden von `6` auf `9` Standardmäßig angehoben
+- Die Plots vom `OP Rang` wurden von `24` auf `27` Standardmäßig angehoben
+
++++
+
+## UPDATE 11.07.2022
+
++++ Änderung :icon-shield:
+
+- Maximale Spielerzahl von `CB1` und `CB2` von `100` auf `125` angehoben
+- Der `Monsterspawner` Preis wurde von `5.000.000 $` auf `8.000.000 $` erhöht
+
++++
+
+## UPDATE 11.07.2022
+
++++ Behoben :icon-bug:
+
+- `/rename` Tab Complete fix
+
++++
+
+## UPDATE 11.07.2022
+
++++ Neu :icon-shield-check:
+
+- `/rename` Befehl, solange wir noch an der Amboss Umbenennung arbeiten (Ab Legende `&l` und ab Supreme alle Farben)
+
++++ Behoben :icon-bug:
+
+- Vote Nachrichten behoben
+
++++
