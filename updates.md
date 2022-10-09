@@ -383,3 +383,64 @@ Bedrock:
 - Bug im Admin Shop behoben
 
 +++
+
+## UPDATE 29.07.2022
+
++++ Neu :icon-shield-check:
+
+- Ab OP könnt ihr jetzt `6` Spieler Warps setzen
+- Ab Platin könnt ihr jetzt `3` Spieler Warps setzen
+- Ab Supreme könnt ihr jetzt mit `/swarp create <name>` einen eigenen Namen für euren Spieler Warp (swarp) festlegen 
+
++++
+
+## UPDATE 29.07.2022 
+
++++ Neu :icon-shield-check:
+
+- `/swarp` Spieler Warp System
+- `/umzug` für eure Sachen von FCB01 und FCB02
+- Items können jetzt auch ohne `/hat` einfach auf den Kopf gesetzt werden
+
++++ Behoben :icon-bug:
+
+- Beim verlassen eines Stuhls landet man jetzt neben dem Stuhl und nicht mehr im Stuhl
+- Homes zeigen wieder in die vorher gesetzte Richtung
+- `/belohnung` Fehler behoben (siehe oben)
+
++++ Änderung :icon-shield:
+
+- Alle Blöcke können ab sofort in der Farmwelt gesetzt werden und verschwinden auch nicht mehr
+
++++
+
+## UPDATE 22.07.2022
+
++++ Behoben :icon-bug:
+
+- Farmwelt Reset behoben
+
++++
+
+## UPDATE 22.07.2022
+
++++ Neu :icon-shield-check:
+
+- Passive Spawner können gegen eine Summe von 500.000$ wieder abgebaut werden
+- Ihr könnte jetzt einstellen, wer auf eure passiven Spawner zugreifen können soll (Alle, Add, Trust oder nur der Plot Besitzer)
+- Notch Apfel für 2.000 Punkte im Punkte Shop
+
++++ Behoben :icon-bug:
+
+- Beim Abbauen von aktiven/alten Spawnern werden jetzt auch alle Spawneggs vergeben
+- Das Kein Hunger Perk stillt jetzt beim Aktivieren den Hunger
+- Umbenennung von alten Spielern mit gleichem Namen im Freunde System behoben
+- Umbenennung von alten Spielern mit gleichem Namen im Karten System behoben
+
++++ Änderung :icon-shield:
+
+- Da es `/breakspawner` nicht mehr gibt, können die jeweiligen Ränge jetzt alle X Tage kostenlos einen passiven Spawner abbauen, ohne 500.000$ zu zahlen
+- Spawn Geschwindigkeit von passiven Spawnern erhöht
+
++++
+
