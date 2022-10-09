@@ -56,14 +56,29 @@ Bedrock:
 +++ Behoben :icon-bug:
 
 - Regenbogenrüstung/Discorüstung behoben
-- Maurer kann auf CB1 wieder in /village benutzt werden
+- Maurer kann auf CB1 wieder in `/village` benutzt werden
 - Passive Spawner Schafe können wieder gefärbt werden
 - Passive Spawner Kühe können wieder gemolken werden
 - Passive Spawner Axolotl und Tropenfische, welche mit einem Eimer eingesammelt werden haben wieder Leben (AI)
 - Neue Treppen können nun auch zum hinsetzen benutzt werden
 - Fehler mit farbigen Schildern behoben (ChestShop)
-- Items können wieder im Amboss umbenannt werden (Wie /rename)
+- Items können wieder im Amboss umbenannt werden (Wie `/rename`)
 
 Java:
 - Minenarbeiter Minion gibt wieder Lapis Lazuli, anstatt blauer Farbe
-- Maurer in /village auf CB1 kann nun genutzt werden
+- Maurer in `/village` auf CB1 kann nun genutzt werden
+
++++
+
+## UPDATE 26.09.2022
+
++++ Behoben :icon-bug:
+
+Java:
+- Homes können wieder über das Menü erstellt werden
+
++++ Änderung :icon-shield:
+
+- Anpassungen an dem Kisten Menü
+
++++
