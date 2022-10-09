@@ -1,3 +1,4 @@
+---
 label: Freunde-System
 icon: people
 tags: [Leitfaden]
