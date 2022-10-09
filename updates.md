@@ -82,3 +82,26 @@ Java:
 - Anpassungen an dem Kisten Menü
 
 +++
+
+## UPDATE 24.09.2022 
+
++++ Neu :icon-shield-check:
+
+- Axolotl und Fische aus einem passiven Spawner können nun mit einem Wassereimer eingesammelt werden
+
++++ Behoben :icon-bug:
+
+- Teleporter suchen jetzt auch außerhalb von Höhe 0 bis 255 nach verfügbaren Teleportern
+- Teleporter ignorieren nun keine Etagen mehr, in denen eine Schild in die Position rein ragt
+- Man kann wieder länger als ein paar Sekunden auf einem Stuhl sitzen
+- Passive Spawner Entities können nicht mehr umbenannt werden
+- Fremde Schilder können nun nicht mehr mit Leuchttintenbeuteln gefärbt werden
+
+Java:
+- Der Plot `/title` kann wieder verändert werden
+
++++ Änderung :icon-shield:
+
+- `/sw` probiert nun immer eine sichere Position zu finden
+
++++
