@@ -31,7 +31,7 @@ Beachte, dass dieses Update-Archiv manuell aktualisiert wird, weshalb es mal etw
 +++ Neu :icon-shield-check:
 
 Bedrock:
-Passive Spawner sind nun abbaubar (über das Menü)
+- Passive Spawner sind nun abbaubar (über das Menü)
 
 +++ Behoben :icon-bug:
 
@@ -39,7 +39,7 @@ Passive Spawner sind nun abbaubar (über das Menü)
 - Spawneggs werden nicht mehr platziert, wenn man mit einem Schild interagiert
 
 Bedrock:
-`/home` und einige Clan Befehle funktionieren jetzt auch in der Farmwelt
+- `/home` und einige Clan Befehle funktionieren jetzt auch in der Farmwelt
 
 +++ Änderung :icon-shield-x:
 
@@ -47,6 +47,6 @@ Bedrock:
 - SWarps werden bei Löschung des Plots entfernt
 
 Bedrock:
-Trichter sind nun auf 5 pro Plot limitiert
+- Trichter sind nun auf 5 pro Plot limitiert
 
 +++
