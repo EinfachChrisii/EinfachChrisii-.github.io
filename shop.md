@@ -1,6 +1,6 @@
 ---
 label: Shop
-icon: star
+icon: globe
 order: 2000
 ---
 
