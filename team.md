@@ -20,7 +20,7 @@ ItxNotViona       | Teamleitung                        | Bedrock
 EinfachMaldy      | Teamleitung                        | Bedrock
 Christianoooo     | Supportleitung                     | Java
 _strikex_         | Supportleitung                     | Java
-ItxDarkphoenix    | Teamleitung                        | Bedrock
+ItxDarkphoenix    | Supportleitung                     | Bedrock
 NilsDev           | Devleitung                         | Java/Bedrock
 thalie            | Builderleitung                     | Java/Bedrock
 Japvin            | Contentleitung                     | Java/Bedrock
