@@ -479,7 +479,7 @@ Bedrock:
 
 +++
 
-## UPDATE
+## UPDATE 15.07.2022
 
 +++ Neu :icon-shield-check:
 
