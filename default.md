@@ -2,7 +2,7 @@
 label: Willkommen
 icon: home
 ---
-# Willkommen auf der inoffiziell Dokumentation von [OPSUCHT.NET](https://opsucht.net/)!
+# Willkommen auf der inoffiziellen Dokumentation von [OPSUCHT.NET](https://opsucht.net/)!
 
 [OPSUCHT](https://opsucht.net/) ist einer der größten deutschen CityBuild- und Wirtschaftsserver. 
 
