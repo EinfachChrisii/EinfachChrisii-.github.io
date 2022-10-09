@@ -1,7 +1,7 @@
 input: .
 output: .retype
 url: opsucht.christian.pizza
-
+favicon: favicon.png
 branding:
   title: OPSUCHT
   label: Docs
