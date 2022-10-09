@@ -105,3 +105,33 @@ Java:
 - `/sw` probiert nun immer eine sichere Position zu finden
 
 +++
+
+## UPDATE 22.09.2022
+
++++ Neu :icon-shield-check:
+
+- Neue Entity Typen zu den passiven Spawnern hinzugefügt
+
+Java:
+- Leuchttintenfische droppen keine Leuchttintenbeutel mehr in der Farmwelt
+
+Bedrock:
+- Einige Mob Drops in der Farmwelt deaktiviert
+
++++ Behoben :icon-bug:
+
+Bedrock:
+- Custom Items funktionieren nun
+
++++
+
+## UPDATE 21.09.2022
+
++++ Neu :icon-shield-check:
+
+Bedrock:
+- 1.19.30 Support
+
++++
+
+
