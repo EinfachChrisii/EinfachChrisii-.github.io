@@ -276,4 +276,52 @@ Bedrock:
 
 +++
 
+## UPDATE 24.08.2022
 
++++ Neu :icon-shield-check:
+
+- Der Warenkorb im Shop wird nun auch auf dem Handy angezeigt
+
++++
+
+## UPDATE 23.08.2022
+
++++ Neu :icon-shield-check:
+
+- Mit `opsucht.net` kommt ihr jetzt mit der Bedrock Edition auf OPSUCHT Mobile
+- Startseite (https://www.opsucht.net/)
+
++++ Änderung :icon-shield:
+
+- Neuer Blog (https://www.opsucht.net/blog)
+- Neuer Shop (https://shop.opsucht.net/)
+
++++
+
+## UPDATE 19.08.2022
+
++++ Änderung :icon-shield:
+
+- Alle `PRIME` Prefixe wurden entfernt, sodass es jetzt nur noch den `OP` Prefix für den OP Rang gibt
+
++++
+
+## UPDATE 19.08.2022
+
++++ Neu :icon-shield-check:
+
+- Tutorial
+
++++ Änderung :icon-shield:
+
+- Bank Limit von `1.000.000.000` auf `2.000.000.000` erhöht
+
++++
+
+## UPDATE 13.08.2022 
+
++++ Behoben :icon-bug:
+
+- `/home` Menü behoben
+
++++
