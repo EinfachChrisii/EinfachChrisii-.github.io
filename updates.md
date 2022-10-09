@@ -444,3 +444,57 @@ Bedrock:
 
 +++
 
+## UPDATE 18.07.2022
+
++++ Behoben :icon-bug:
+
+- OP kann wieder Plot Flags auf `CB3` und `CB4` setzen
+
++++
+
+## UPDATE 18.07.2022
+
++++ Behoben :icon-bug:
+
+- Tägliche Aufgabe in `/belohnung` ignoriert jetzt die Rüstungsslots und den Zweithandslot
+- Startzeit von den Citybuild Servern verbessert
+
++++
+
+## UPDATE 17.07.2022 
+
++++ Behoben :icon-bug:
+
+- Engelsschuhe gehen nicht mehr in der Farmwelt
+- Farmwelt Reset von Custom Farmwelt behoben
+- Passive Spawner Bugfixes
+
++++
+
+## UPDATE 15.07.2022 
+
++++ Behoben :icon-bug:
+
+- `/p h <name>` und `/p v <name>` sollten jetzt nicht mehr so lange laden
+
++++
+
+## UPDATE
+
++++ Neu :icon-shield-check:
+
+- Super Tools auf CB3 und CB4 (noch nicht in den Kisten)
+
++++ Behoben :icon-bug:
+
+- `/feed` hat nun einen Cooldown von 10 Minuten
+- `/heal` hat nun einen Cooldown von 15 Minuten
+- Betreten der Citybuild und Farmserver mit der 1.19 blockiert, da diese Version zu vielen Problemen führt. Nutzt bitte die 1.12.2 oder die 1.16.5!
+
++++ Änderung :icon-shield:
+
+- `/p remove *` und `/p deny *` gehen wieder
+- Starter Kit wird jetzt immer direkt beim ersten Betreten auf dem Server vergeben
+- `/heal` heilt nun mehr als 20 Herzen, sofern ihr gerade eine Super Tool Hose oder Ähnliches nutzt
+
++++
