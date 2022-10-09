@@ -134,4 +134,28 @@ Bedrock:
 
 +++
 
+## UPDATE 16.09.2022
+
++++ Neu :icon-shield-check:
+
+Java:
+
+
+Bedrock:
+- Spawn Eier im Adminshop
+- Neue Blöcke aus der neuen Version für die verschiedenen Jobs
+- Doppeltes Geld bei allen Jobs (Event)
+
++++ Behoben :icon-bug:
+
+Bedrock:
+
+
++++ Änderung :icon-shield:
+
+Java:
+
+
+
+
 
