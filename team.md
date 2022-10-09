@@ -1,7 +1,7 @@
 ---
 label: Team
 icon: shield
-order: 850
+order: 900
 ---
 
 # Team
