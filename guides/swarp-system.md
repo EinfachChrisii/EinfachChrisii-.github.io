@@ -2,7 +2,7 @@
 label: Swarp-System
 icon: people
 tags: [Leitfaden]
-order: 750
+order: 700
 ---
 
 # Swarp-System
