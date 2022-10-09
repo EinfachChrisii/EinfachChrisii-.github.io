@@ -14,7 +14,7 @@ Beachte, dass dieses Update-Archiv manuell aktualisiert wird, weshalb es mal etw
 
 ---
 
-## UPDATE 09.10.2022 [!badge text="LATEST" variant="info"]
+### UPDATE 09.10.2022 [!badge text="LATEST" variant="info"]
 
 +++ Behoben :icon-bug:
 
