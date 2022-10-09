@@ -18,10 +18,10 @@ Beachte, dass dieses Update-Archiv manuell aktualisiert wird, weshalb es mal etw
 
 +++ Behoben :icon-bug:
 
-1. XRAY funktioniert jetzt nicht mehr unter Höhe 0
+XRAY funktioniert jetzt nicht mehr unter Höhe 0
 
 +++ Änderung :icon-shield-x:
 
-1. Verbesserung der Performance in den Farmwelten
+Verbesserung der Performance in den Farmwelten
 
 +++
