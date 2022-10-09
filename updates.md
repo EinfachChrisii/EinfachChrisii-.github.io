@@ -325,3 +325,29 @@ Bedrock:
 - `/home` Menü behoben
 
 +++
+
+## UPDATE 12.08.2022
+
++++ Neu :icon-shield-check:
+
+- In `/umzug` können nun `/village` Items von FCB01 und FCB01 abgeholt werden
+- In `/umzug` können nun DURA CB02 Inventar, Enderchest und XP abgeholt werden
+- In `/umzug` können nun alte Items (ehem. `/oldinv`) abgeholt werden
+
++++ Behoben :icon-bug:
+
+- Zieht ihr weitere Plots aus der Kiste, müsst ihr nicht mehr neu verbinden
+- Helm kann wieder durch klicken ausgezogen werden
+- `/rename` mit nur Farbcodes blockiert 
+- Ränge bei `/gift` sind nun groß geschrieben
+- Kein Schaden mehr für Spieler durch `maxEntityCramming`
+- Mobs droppen keine Items, wenn sie durch `maxEntityCramming` gestorben sind
+- `/plot unlink` behoben, bei welchem man das Plot zur Straße machen konnte, ohne dass diese resettet wurde
+
++++ Änderung :icon-shield:
+
+- Getrennte Zugriffsrechte für Inventar und Angreifen auf den Passiven Spawner
+- Swarps können nur noch aus folgenden Zeichen bestehen: `a-z`, `A-Z`, `0-9` und `_`
+
++++
+
