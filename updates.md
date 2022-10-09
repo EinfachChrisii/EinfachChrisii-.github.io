@@ -752,10 +752,10 @@ Bedrock:
 +++ Neu :icon-shield-check:
 
 - Die Server wurden wie folgt umbenannt:
-  - cb01 / cb 1.12.2 wird zu cb1
-  - cb01 von DURA wird zu cb2
-  - cb02 / cb 1.15.2 wird zu cb3
-  - cb05 / cb 1.16.4 wird zu cb4
+  - `cb01` / `cb 1.12.2` wird zu `cb1`
+  - `cb01` von DURA wird zu `cb2`
+  - `cb02` / `cb 1.15.2` wird zu `cb3`
+  - `cb05` / `cb 1.16.4` wird zu `cb4`
 - Vereinheitlichung vieler Systeme
 - Infrastruktur Änderungen
 
