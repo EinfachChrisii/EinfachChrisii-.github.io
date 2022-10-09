@@ -516,3 +516,21 @@ Bedrock:
 - `/p trust`, `/p add` und `/p deny` geht wieder auf CB3 und CB4
 
 +++
+
+## UPDATE 14.07.2022
+
++++ Neu :icon-shield-check:
+
+🟢 1.000$ für 250 Punkte im `/belohnung` Punkteshop
+🟢 `/shopupdate`, aktualisiert den Rang im Shop, sofern ihr diesen nicht aus dem Shop gekauft habt, damit zum Beispiel ein Upgrade gekauft werden kann
+🟢 `/gift` wurde überarbeitet und zeigt nun an, ob ihr wieder einen Rang vergeben könnt
+
++++ Behoben :icon-bug:
+
+- Viele kleine Bugfixes, welche die Performance verbessern sollten
+
++++ Änderung :icon-shield:
+
+- Weltbarriere auf allen Plot Servern, welche das laden von ungenutzten Plots unterbindet. Solltet ihr ein neues Plot haben wollen, so ist immer eine freie Reihe in jede Richtung verfügbar oder nutzt einfach `/p auto` oder `/p auto 2;2` 
+
++++
