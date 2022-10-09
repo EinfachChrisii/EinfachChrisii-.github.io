@@ -13,6 +13,7 @@ Ob aktuell eine Bewerbungspahse für den jeweiligen Bereich stattfindet, kannst 
 Nachfolgend findest du eine Auflistung, welche die jeweilige Leitung der einzelnen Bereiche enthält.
 
 Name              | Leitungsrolle { class="compact" }
+---               | ---
 Luzius_Amduzias   | Teamleitung
 EinfachEmmy       | Teamleitung
 Christianoooo     | Supportleitung
