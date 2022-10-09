@@ -1,6 +1,6 @@
 ---
 label: Belohnung-System
-icon: start
+icon: star
 tags: [Leitfaden]
 order: 500
 ---
