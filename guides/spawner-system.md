@@ -2,7 +2,7 @@
 label: Spawner-System
 icon: package
 tags: [Leitfaden]
-order: 850
+order: 900
 ---
 
 # Spawner-System
