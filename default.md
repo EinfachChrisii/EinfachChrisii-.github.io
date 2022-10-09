@@ -20,19 +20,19 @@ Du hast bei uns die Auswahl zwischen der Java- oder Bedrock-Edition, welche jewe
 
 #### :icon-graph: ausgeprägte Wirtschaft
 
-Die ausgeprägte Wirtschaft wird auf jedem CityBuild von den Spielern gesteuert.
+Die **ausgeprägte Wirtschaft** wird auf jedem CityBuild von den Spielern gesteuert.
 
 #### :icon-comment-discussion: starke Community
 
-Wir bieten euch eine starke Community mit einem komplexen Clan-System!
+Wir bieten euch eine **starke Community** mit einem komplexen Clan-System!
 
 #### :icon-briefcase: Job-System
 
-Dank unserem Job-System kannst du währendessen du farmst, nicht nur deine Level steigern, sondern auch gleichzeitig Geld verdienen!
+Dank unserem **Job-System** kannst du währendessen du farmst, nicht nur deine Level steigern, sondern auch gleichzeitig Geld verdienen!
 
 #### :icon-gift: regelmäßige Events
 
-Durch regelmäßige Events bekommt ihre die Möglichkeit einzigartige Items zu gewinnen!
+Durch **regelmäßige Events** bekommt ihre die Möglichkeit einzigartige Items zu gewinnen!
 
 ---
 
