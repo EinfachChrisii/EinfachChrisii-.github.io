@@ -12,16 +12,19 @@ Ob aktuell eine Bewerbungspahse für den jeweiligen Bereich stattfindet, kannst 
 
 Nachfolgend findest du eine Auflistung, welche die jeweilige Leitung der einzelnen Bereiche enthält.
 
-Name              | Leitungsrolle { class="compact" }
----               | ---
-Luzius_Amduzias   | Teamleitung
-EinfachEmmy       | Teamleitung
-Christianoooo     | Supportleitung
-_strikex_         | Supportleitung
-NilsDev           | Devleitung
-thalie            | Builderleitung
-Japvin            | Contentleitung
-CabCabana         | Clanleitung
+Name              | Leitungsrolle { class="compact" }  | Edition
+---               | ---                                | ---
+Luzius_Amduzias   | Teamleitung                        | Java
+EinfachEmmy       | Teamleitung                        | Java
+ItxNotViona       | Teamleitung                        | Bedrock
+EinfachMaldy      | Teamleitung                        | Bedrock
+Christianoooo     | Supportleitung                     | Java
+_strikex_         | Supportleitung                     | Java
+ItxDarkphoenix    | Teamleitung                        | Bedrock
+NilsDev           | Devleitung                         | Java/Bedrock
+thalie            | Builderleitung                     | Java/Bedrock
+Japvin            | Contentleitung                     | Java/Bedrock
+CabCabana         | Clanleitung                        | Java/Bedrock
 
 
 
