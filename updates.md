@@ -1,6 +1,6 @@
 ---
 label: Updates
-icon: upload
+icon: zap
 order: 900
 ---
 
