@@ -2,7 +2,7 @@
 label: Villager-System
 icon: ruby
 tags: [Leitfaden]
-order: 850
+order: 800
 ---
 
 # Villager-System
