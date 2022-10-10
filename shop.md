@@ -33,23 +33,29 @@ Sobald man diese ausgewählt hat, bestätigt man ebenfalls die AGB, Datenschutzb
 
 Als letztes muss man auf Fortsetzen klicken und nun den Anweisungen des Zahlungsanbieters folgen.
 
-Sollten Probleme aufkommen, wendet man sich bitte an support@iwmedia.de
-
 ---
 
 ### Lieferzeit
+
+Die Lieferzeit beträgt 15 Minuten. Sollte man in diesem Zeitraum den Artikel nicht erhalten haben, wendet man sich bitte an support@iwmedia.de
 
 ---
 
 ### Wiederrufsrecht
 
+
+
 ---
 
 ### Ränge 
 
+
+
 ---
 
 ### Kristalle/Gems
+
+
 
 ---
 
