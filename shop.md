@@ -5,7 +5,7 @@ order: 2000
 ---
 # Shop
 
-In unserem [Shop](https://shop.opsucht.net/) hat man die Möglichkeit für die Java- und die Bedrock-Edition einen Rang oder Kristalle/Gems zu kaufen.
+In unserem [Shop](https://shop.opsucht.net/) hat man die Möglichkeit für die Java- und die Bedrock-Edition einen **Rang** oder **Kristalle/Gems** zu kaufen.
 
 ---
 
