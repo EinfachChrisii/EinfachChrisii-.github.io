@@ -1,5 +1,5 @@
 ---
-label: Shop-System
+label: ChestShop-System
 icon: credit-card
 tags: [Leitfaden]
 order: 600
