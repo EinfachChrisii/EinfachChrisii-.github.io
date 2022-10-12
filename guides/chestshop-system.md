@@ -5,6 +5,6 @@ tags: [Leitfaden]
 order: 600
 ---
 
-# Swarp-System
+# ChestShop-System
 
-This is a sample shop page.
+This is a sample chestshop page.
