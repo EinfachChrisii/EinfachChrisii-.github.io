@@ -43,7 +43,7 @@ Die Lieferzeit beträgt 15 Minuten. Sollte man in diesem Zeitraum den Artikel ni
 
 ### Wiederrufsrecht
 
-
+Das EU-Recht räumt einem bei Softwareverkäufen ein Widerrufsrecht ein. Dieses kann für digital bereitgestellte Inhalte ausgeschlossen werden, sobald der Inhalt dem Endverbraucher zur Verfügung gestellt wird. Das gesetzliche EU-Widerrufsrecht endet 14 Tage nach dem Kauf oder (wenn man die entsprechende Zustimmung und Bestätigung gegeben hat) in dem Moment, in dem man die Inhalte und Dienste zum ersten Mal heruntergeladen hat (je nachdem, was früher eintritt).
 
 ---
 
