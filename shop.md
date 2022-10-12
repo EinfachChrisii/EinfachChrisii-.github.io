@@ -49,13 +49,13 @@ Das EU-Recht räumt einem bei Softwareverkäufen ein Widerrufsrecht ein. Dieses 
 
 ### Ränge 
 
-Mit einem Rang kann man gewisse Vorteile erhalten. Jeder Rang hat seine eigene Vorteile und kostet unterschiedlich viel Echtgeld. Der Rang ist serverweit nutzbar, jedoch nur für die jeweilige Edition.
+Mit einem Rang kann man gewisse Vorteile erhalten. Jeder Rang hat seine eigenen Vorteile und kostet unterschiedlich viel Echtgeld. Der Rang ist serverweit nutzbar, jedoch nur für die jeweilige Edition.
 
 ---
 
 ### Kristalle/Gems
 
-Mit Kristallen/Gems hat man die Möglichkeit, sich auf dem CityBuild seiner Wahl Kisten zu kaufen. Jede Kiste enthält einzigartig Items, welche nur dort verfügbar sind.
+Mit Kristallen/Gems hat man die Möglichkeit, sich auf dem CityBuild seiner Wahl Kisten zu kaufen. Jede Kiste enthält einzigartige Items, welche nur dort verfügbar sind.
 
 ---
 
