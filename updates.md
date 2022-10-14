@@ -14,7 +14,27 @@ Beachte, dass dieses Update-Archiv manuell aktualisiert wird, weshalb es mal etw
 
 ---
 
-### UPDATE 09.10.2022 [!badge text="LATEST" variant="info"]
+### UPDATE 14.10.2022 [!badge text="LATEST" variant="info"]
+
++++ Neu :icon-shield-check:
+
+- Jackpot Meldungen werden nun auch auf der Farmwelt angezeigt
+
++++ Behoben :icon-bug:
+
+- Passive Mobs können wieder frei gedreht werden
+- Generierte Karten zeigen nun wieder die richtigen Farben/Blöcke an
+
++++ Änderung :icon-shield:
+
+- "Zuletzt Online" aus Shop Info entfernt
+- Maximale Hopper pro Plot von 5 auf 10 gesetzt
+- "Hopper Flag aktualisieren" berücksichtigt jetzt bis zu 6 Plots (vorher 4), das heißt auf einem Merge, bestehend aus 5 Plots konnte man in der Vergangenheit 20 Trichter haben (4 * 5) und nun insgesamt 50 (5 * 10)
+- Ränder und Wände auf einen Stand gebracht (Java und Bedrock)
+
++++
+
+### UPDATE 09.10.2022
 
 +++ Behoben :icon-bug:
 
