@@ -34,7 +34,7 @@ Um etwas zu kaufen muss man mit der rechten Maustaste auf das Schild klicken und
 
 ### Befehle
 
-- `/iteminfo` - Hiermit erhält man über das Item in seiner Hand Informationen.
-- `/iteminfo <id/name>` - Hiermit erhält man Informationen über das Item, welches angegeben wurde.
-- `/shopinfo` - Hiermit erhält man Informationen über den betrachteten Shop.
-- `/cstoggle` - Hiermit kann man die Kauf-/Verkaufsbenachrichtigungen aktivieren/deaktiveren.
+`/iteminfo` - Hiermit erhält man über das Item in seiner Hand Informationen.  
+`/iteminfo <id/name>` - Hiermit erhält man Informationen über das Item, welches angegeben wurde.  
+`/shopinfo` - Hiermit erhält man Informationen über den betrachteten Shop.  
+`/cstoggle` - Hiermit kann man die Kauf-/Verkaufsbenachrichtigungen aktivieren/deaktiveren.  
