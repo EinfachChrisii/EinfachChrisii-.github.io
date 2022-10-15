@@ -26,7 +26,7 @@ Auf diesem Schild muss folgendes geschrieben werden:
 
 **Ergebnis:**
 
-  ![Ein Spieler kann 64 Diamanten für 10 Dollar kaufen und diese für 5 Dollar an Christianoooo wieder verkaufen.](/images/guides/chestshop/chestshop-result.png)-
+![Ein Spieler kann 64 Diamanten für 10 Dollar kaufen und diese für 5 Dollar an Christianoooo wieder verkaufen.](/images/guides/chestshop/chestshop-result.png)-
 
 ---
 
