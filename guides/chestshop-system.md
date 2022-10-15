@@ -12,10 +12,8 @@ order: 600
 ### Erstellung
 
 <br>Als erstes muss eine Kiste platziert werden.<br>
-
-Nun muss ein Schild an die Kiste platziert werden.
-
-Auf diesem Schild muss folgendes geschrieben werden:
+<br>Nun muss ein Schild an die Kiste platziert werden.<br>
+<br>Auf diesem Schild muss folgendes geschrieben werden:<br>
 
 ![Ergebnis](/images/guides/chestshop/chestshop-result.png)-
 
