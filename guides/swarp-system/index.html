@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.719181748056">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.719184432647">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -11,7 +11,7 @@
     <!-- Primary Meta Tags -->
     <title>Swarp-System - Dokumentation</title>
     <meta name="title" content="Swarp-System - Dokumentation">
-    <meta name="description" content="This is a sample swarp page." />
+    <meta name="description" content="Als erstes muss eine Position gewählt werden. Diese Position muss sich entweder auf dem eigenen Grundstück, auf einem vertrauten Grundstück oder auf..." />
 
     <!-- Canonical -->
     <link rel="canonical" href="https://opsucht.christian.pizza/guides/swarp-system/" />
@@ -20,22 +20,22 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://opsucht.christian.pizza/guides/swarp-system/">
     <meta property="og:title" content="Swarp-System - Dokumentation">
-    <meta property="og:description" content="This is a sample swarp page.">
+    <meta property="og:description" content="Als erstes muss eine Position gewählt werden. Diese Position muss sich entweder auf dem eigenen Grundstück, auf einem vertrauten Grundstück oder auf...">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://opsucht.christian.pizza/guides/swarp-system/">
     <meta property="twitter:title" content="Swarp-System - Dokumentation">
-    <meta property="twitter:description" content="This is a sample swarp page.">
+    <meta property="twitter:description" content="Als erstes muss eine Position gewählt werden. Diese Position muss sich entweder auf dem eigenen Grundstück, auf einem vertrauten Grundstück oder auf...">
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../favicon.png" rel="icon" />
-    <link href="../../resources/css/retype.css?v=2.4.0.719181748056" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=2.4.0.719184432647" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.719181748056" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.719184432647" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.719181748056" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.719184432647" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -247,7 +247,38 @@
         <span>Swarp-System</span>
     </h1>
 </doc-anchor-target>
-<p>This is a sample swarp page.</p>
+<hr />
+<doc-anchor-target id="erstellung">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#erstellung">#</doc-anchor-trigger>
+        <span>Erstellung</span>
+    </h3>
+</doc-anchor-target>
+<p>Als erstes muss eine Position gewählt werden. Diese Position muss sich entweder auf dem eigenen Grundstück, auf einem vertrauten Grundstück oder auf der Straße befinden.
+Nun muss <code v-pre>/swarp create &lt;name&gt;</code> ausgeführt werden. Sollte kein Name angegeben werden wird automatisch der Spielername verwendet.
+Jetzt ist der Swarp mit dem angegebenen Namen auffindbar.</p>
+<hr />
+<doc-anchor-target id="benutzung">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#benutzung">#</doc-anchor-trigger>
+        <span>Benutzung</span>
+    </h3>
+</doc-anchor-target>
+<p>Um einen Swarp zu besuchen muss man <code v-pre>/sw &lt;name&gt;</code> ausführen.</p>
+<hr />
+<doc-anchor-target id="befehle">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#befehle">#</doc-anchor-trigger>
+        <span>Befehle</span>
+    </h3>
+</doc-anchor-target>
+<p><code v-pre>/sw &lt;name&gt;</code> - Hiermit teleportiert man sich zu dem angegebenen Swarp.
+<code v-pre>/swarp create &lt;name&gt;</code> - Hiermit erstellt man einen Swarp. Sollte kein Name angegeben werden, wird der Spielername verwendet.
+<code v-pre>/swarp delete &lt;name&gt;</code> - Hiermit löscht man einen Swarp.
+<code v-pre>/swarp update &lt;name&gt;</code> - Hiermit aktualisiert man die Position eines Swarps.
+<code v-pre>/swarp info &lt;name&gt;</code> - Hiermit erhält man alle Informationen über den angegebenen Swarp.
+<code v-pre>/swarp list</code> - Hiermit listet man alle eigenen Swarps auf.
+<code v-pre>/swarp top</code> - Hiermit sieht man die Topliste der Swarps.</p>
 
                                 <div class="flex items-center mt-6 mb-6 clear-both">
                                     <span>
