@@ -12,9 +12,7 @@ order: 600
 ### Erstellung
 
 Als erstes muss eine Kiste platziert werden. 
-
 Nun muss ein Schild an die Kiste platziert werden.
-
 Auf diesem Schild muss folgendes geschrieben werden:
 
 ![Ergebnis](/images/guides/chestshop/chestshop-result.png)-
