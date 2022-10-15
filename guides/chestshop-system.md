@@ -1,5 +1,5 @@
 ---
-label: Shop-System
+label: ChestShop-System
 icon: credit-card
 tags: [Leitfaden]
 order: 600
@@ -17,7 +17,7 @@ Nun muss ein Schild an die Kiste platziert werden.
 
 Auf diesem Schild muss folgendes geschrieben werden:
 
-![](/static/images/guides/chestshop/chestshop-creation.png)
+![](/images/guides/chestshop/chestshop-creation.png)
 
 ---
 
