@@ -16,6 +16,7 @@ Als erstes muss eine Kiste platziert werden.
 Nun muss ein Schild an die Kiste platziert werden.
 
 Auf diesem Schild muss folgendes geschrieben werden:
+
 -![](/images/guides/chestshop/chestshop-creation.png)
 
 - Die erste Zeile muss frei bleiben, dort wird dann der Spielername automatisch eingetragen.
