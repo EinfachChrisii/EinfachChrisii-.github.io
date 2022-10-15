@@ -12,7 +12,7 @@ order: 700
 ### Erstellung
 
 Als erstes muss eine Position gewählt werden. Diese Position muss sich entweder auf dem eigenen Grundstück, auf einem vertrauten Grundstück oder auf der Straße befinden.  
-Nun muss `/swarp create <name>` ausgeführt werden. Sollte kein Name angegeben werden wird automatisch der Spielername verwendet.  
+Nun muss `/swarp create <name>` ausgeführt werden. Sollte kein Name angegeben werden wird automatisch der Spielername verwendet.   
 Jetzt ist der Swarp mit dem angegebenen Namen auffindbar.  
 
 ---
