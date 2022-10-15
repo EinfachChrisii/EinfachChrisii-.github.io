@@ -19,7 +19,7 @@ Jetzt ist der Home mit dem angegebenen Namen auffindbar.
 
 ### Benutzung
 
-Um einen Home zu besuchen muss man `/home <name>` ausführen oder über das Interface auswählen.
+Um einen Home zu besuchen muss man `/home <name>` ausführen oder diesen über das Interface auswählen.
 
 ---
 
