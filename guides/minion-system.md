@@ -21,7 +21,7 @@ Je nach Minion kann der Preis und die Arbeitszeit varrieren.
 
 ### Benutzung
 
-Um einen Minion zu nutzen muss /minion ausgeführt werden. 
+Um einen Minion zu nutzen muss `/minion` ausgeführt werden. 
 
 Indem Interface hast du nun die Möglichkeit den Minion deiner Wahl auswählen.
 
