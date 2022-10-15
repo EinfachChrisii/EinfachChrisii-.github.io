@@ -24,7 +24,7 @@ Auf diesem Schild muss folgendes geschrieben werden:
 - Die dritte Zeile ist der Kauf-/Verkaufspreis. B steht für den Verkauf und S für den Ankauf. Die Preise können durch ein Doppelpunkt getrennt werden.
 - Die vierte Zeile ist die Item-ID und wird automatisch eingetragen, wenn man ein "?" angibt.
 
-![Ein Spieler kann 64 Diamanten für 10 Dollar kaufen und diese für 5 Dollar an Christianoooo wieder verkaufen.](/images/guides/chestshop/chestshop-result.png)-
+![Ergebnis](/images/guides/chestshop/chestshop-result.png)-
 
 ---
 
