@@ -30,6 +30,8 @@ Auf diesem Schild muss folgendes geschrieben werden:
 
 ### Benutzung
 
+Um etwas zu kaufen muss man mit der rechten Maustaste auf das Schild klicken und um etwas zu verkaufen muss man mit der linken Maustaste auf das Schild klicken.
+
 ---
 
 ### Befehle
