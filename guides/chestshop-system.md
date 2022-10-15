@@ -19,7 +19,7 @@ Auf diesem Schild muss folgendes geschrieben werden:
 
 ![Ergebnis](/images/guides/chestshop/chestshop-result.png)-
 
-![](/images/guides/chestshop/chestshop-creation.png)-
+![Aufbau](/images/guides/chestshop/chestshop-creation.png)-
 
 - Die erste Zeile muss frei bleiben, dort wird dann der Spielername automatisch eingetragen.
 - Die zweite Zeile ist die Anzahl der zu kaufenden/verkaufenden Items.
