@@ -1,5 +1,5 @@
 ---
-label: ChestShop-System
+label: Shop-System
 icon: credit-card
 tags: [Leitfaden]
 order: 600
@@ -7,4 +7,25 @@ order: 600
 
 # ChestShop-System
 
-This is a sample chestshop page.
+---
+
+### Erstellung
+
+Als erstes muss eine Kiste platziert werden. 
+
+Nun muss ein Schild an die Kiste platziert werden.
+
+Auf diesem Schild muss folgendes geschrieben werden:
+
+![](/static/images/guides/chestshop/chestshop-creation.png)
+
+---
+
+### Benutzung
+
+---
+
+### Befehle
+
+
+
