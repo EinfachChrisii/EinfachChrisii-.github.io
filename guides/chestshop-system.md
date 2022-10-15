@@ -26,7 +26,7 @@ Auf diesem Schild muss folgendes geschrieben werden:
 
 **Ergebnis:**
 
-  ![](/images/guides/chestshop/chestshop-result.png)
+![**Ergebnis**](/images/guides/chestshop/chestshop-result.png)-
 
 ---
 
