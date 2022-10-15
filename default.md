@@ -12,7 +12,7 @@ icon: home
 
 ## Einstieg
 
-Du hast bei uns die Auswahl zwischen der Java- oder Bedrock-Edition, welche jeweils vier verschiedene CityBuilds haben, die mit der 1.19.2 erreichbar sind.
+Man hat bei uns die Auswahl zwischen der Java- und Bedrock-Edition, welche jeweils vier verschiedene CityBuilds haben, die mit der 1.19.2 erreichbar sind.
 
 ---
 
