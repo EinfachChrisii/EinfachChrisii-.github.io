@@ -33,4 +33,4 @@ Jetzt öffnet sich das Öffnungs Interface, sobald dieses abgelaufen ist, wird m
 
 ### Befehle
 
-`/loot` - Öffnet das Kisten Interface  
+`/loot` - Öffnet das Kisten Interface.  
