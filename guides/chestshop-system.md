@@ -11,7 +11,7 @@ order: 600
 
 ### Erstellung
 
-Als erstes muss eine Kiste platziert werden.
+<br>Als erstes muss eine Kiste platziert werden.<br>
 
 Nun muss ein Schild an die Kiste platziert werden.
 
