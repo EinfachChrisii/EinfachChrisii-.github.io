@@ -11,7 +11,7 @@ order: 800
 
 ### Erklärung
 
-Das Spawner-System gibt einem die Möglichkeit ganz leicht XP und Loot zu farmen.
+Das Villager-System gibt einem die Möglichkeit sich virtuell ein Dorf aufzubauen.
 
 Man hat damit die Möglichkeit seinen Spawner zu erweitern, um mehr Slots zu erhalten, die maximale Mobs zu erhöhen, die Spawnergeschwindigkeit zu erhöhen und den Itemspeicher pro Tag zu erweitern.
 
